@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj": {}
+    "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj": {}
   },
   "projects": {
-    "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj": {
+    "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj",
+        "projectUniqueName": "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj",
         "projectName": "BlossomsWeb_Server",
-        "projectPath": "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj",
+        "projectPath": "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/Blazor/Blossoms/BlossomsWeb_Server/BlossomsWeb_Server.csproj",
         "packagesPath": "/Users/kanishanmugambaskaran/.nuget/packages/",
-        "outputPath": "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/BlossomsWeb_Server/obj/",
+        "outputPath": "/Users/kanishanmugambaskaran/Projects/Blazor/Blossoms/Blazor/Blossoms/BlossomsWeb_Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kanishanmugambaskaran/.nuget/NuGet/NuGet.Config"
