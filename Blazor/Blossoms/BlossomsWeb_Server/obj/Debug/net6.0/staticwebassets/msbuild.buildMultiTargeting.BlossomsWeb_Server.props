@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BlossomsWeb_Server.props" />
+</Project>
